@@ -9,7 +9,7 @@ const totalRestaurants = 1500;
 
 //Exercise #2: Variable Reassignment
 //Start coding here
-address = "(970) 878-53292400 County Rd #4Meeker, Colorado(CO), 81641”;
+address = "(970) 878-53292400 County Rd #4Meeker, Colorado(CO), 81641";
 netBillPrice = 5000;
 totalRestaurantsOpen = 2500;
 
