@@ -4,9 +4,9 @@ let firstname = "Karter";
 let lastname = "Anderson";
 let address = "54/24 Gp 5 Bangkruay-Sainoi Bang Kruay Bang Kruai";
 
-let restaurantName = "Chef's table by chef james";
-let netFoodPrice = 15000;
-let totalNowOpenRestaurant = 1500;
+const restaurantName = "Chef's table by chef james";
+const netFoodPrice = 15000;
+const totalNowOpenRestaurant = 1500;
 
 console.log(firstname);
 console.log(lastname);
